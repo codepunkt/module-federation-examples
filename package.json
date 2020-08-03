@@ -13,6 +13,7 @@
       "self-healing/*",
       "comprehensive-demo/*",
       "server-side-rendering/*",
+      "dynamic-host-remote/*",
       "dynamic-system-host/*",
       "shared-context/*",
       "shared-routing/*",

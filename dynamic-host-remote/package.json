@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "lerna run --scope @dynamic-host-remote/* --parallel start",
+    "build": "lerna run --scope @dynamic-host-remote/* build",
+    "serve": "lerna run --scope @dynamic-host-remote/* --parallel serve",
+    "clean": "lerna run --scope @dynamic-host-remote/* --parallel clean"
+  },
+  "devDependencies": {
+    "lerna": "3.22.1"
+  }
+}
